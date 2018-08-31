@@ -1,0 +1,14 @@
+{
+    "guid": "call-center-package",
+    "repository": {
+        "type": "git",
+        "branch": "master",
+        "url": "https://github.com/promart-io/demo-call-center-package.git"
+    },
+    "dependencies": [{
+        "guid": "demo-calls",
+        "url": "https://github.com/promart-io/demo-calls.git",
+        "type": "git",
+        "branch": "master"
+    }]
+}
